@@ -6,7 +6,7 @@ Uma aplicação web simples para organizar sorteios de amigo secreto entre amigo
 
 ## Tela Inicial
 
-![Tela inicial](assets/tela-inicial.png)
+![Tela inicial](assets/tela-inicial.jpeg)
 
 ---
 
@@ -24,17 +24,12 @@ Uma aplicação web simples para organizar sorteios de amigo secreto entre amigo
 ## Exemplos Visuais
 
 ### ➕ Adicionando amigos
-![Adicionando amigos](assets/adicionando-amigos.png)
-
----
-
-### 🔀 Sorteando um amigo secreto
-![Sorteio](assets/sorteio.png)
+![Adicionando amigos](assets/adicionando-amigos.jpeg)
 
 ---
 
 ### ✅ Resultado do sorteio
-![Resultado do sorteio](assets/resultado.png)
+![Resultado do sorteio](assets/resultado.jpeg)
 
 ---
 
