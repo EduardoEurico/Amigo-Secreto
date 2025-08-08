@@ -1,16 +1,16 @@
-# 🎁 Amigo Secreto
+# Amigo Secreto
 
 Uma aplicação web simples para organizar sorteios de amigo secreto entre amigos, familiares ou colegas.
 
 ---
 
-## 🎬 Tela Inicial
+## Tela Inicial
 
 ![Tela inicial](screenshots/tela-inicial.png)
 
 ---
 
-## ✨ Funcionalidades Detalhadas
+## Funcionalidades Detalhadas
 
 | Funcionalidade           | Descrição                                                                 |
 |--------------------------|---------------------------------------------------------------------------|
@@ -21,7 +21,7 @@ Uma aplicação web simples para organizar sorteios de amigo secreto entre amigo
 
 ---
 
-## 🖼️ Exemplos Visuais
+## Exemplos Visuais
 
 ### ➕ Adicionando amigos
 ![Adicionando amigos](screenshots/adicionando-amigos.png)
@@ -38,7 +38,7 @@ Uma aplicação web simples para organizar sorteios de amigo secreto entre amigo
 
 ---
 
-## 🌐 Preview Online
+## Preview Online
 
 Acesse a aplicação publicada no GitHub Pages:  
 ➡️ [https://eduardoeurico.github.io/Amigo-Secreto](https://eduardoeurico.github.io/Amigo-Secreto)
