@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-Uma aplicação web simples para organizar sorteios de amigo secreto entre amigos, familiares ou colegas.
+Aplicação web para organizar sorteios de amigo.
 
 ---
 
